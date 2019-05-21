@@ -1,5 +1,5 @@
 # NonSwipeableViewPager
-somtime we need to viewpager that can't swipe left or right because we use this view that extend viewpager android
+somtime we need viewpager that doesn't swipe left or right so we use this view that is extended from android viewpager 
 
 1-crate LNonSwipeableViewPager class
 
